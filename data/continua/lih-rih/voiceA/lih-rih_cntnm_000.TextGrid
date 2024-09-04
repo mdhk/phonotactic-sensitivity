@@ -1,0 +1,26 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.6650416666666666 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "morphtarget" 
+        xmin = 0 
+        xmax = 0.6650416666666666 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.05595906939938617 
+            text = "" 
+        intervals [2]:
+            xmin = 0.05595906939938617 
+            xmax = 0.19216366184733613 
+            text = "X" 
+        intervals [3]:
+            xmin = 0.19216366184733613 
+            xmax = 0.6650416666666666 
+            text = "" 
