@@ -1,3 +1,11 @@
+# folders to ignore
+notebooks/*
+models/converted_model/*
+
+# macOS files
+.DS_Store
+data/continua.numbers
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
